@@ -1,6 +1,6 @@
 ## Saab Dynamics 2022 summerproject: Robot Watchdog
 
-This Robot Watchdog which will patrol an area such as a hangar with random walking patterns. The dog will report any unauthorized persons detected and report to a central    webapplication which acts as a control interface. The robotdog is a comercially availiable robot platform called Bittle made by Petoi LLC.
+This Robot Watchdog which will patrol an area such as a hangar with random walking patterns. The dog will report any unauthorized persons detected and report to a central    webapplication which acts as a control interface. The robotdog is a commercially available robot platform called Bittle made by Petoi LLC.
 
 ## Requirements (1 robotdog)
 ### Parts
